@@ -1,15 +1,7 @@
-<rss version="2.0">
-  <channel>
-    <title>Orange Process — CRM и автоматизация</title>
-    <link>https://orangeprocess.ru</link>
-    <description>Статьи о выборе и внедрении CRM-систем</description>
-    <language>ru</language>
 <item>
   <title>Как выбрать CRM без ошибок</title>
-
-<link>https://orangeprocess.ru</link>
-
-<description><![CDATA[
+  <link>https://orangeprocess.ru</link>
+  <description><![CDATA[
 Как выбрать CRM без ошибок
 
 Выбор CRM-системы часто напоминает покупку автомобиля. Вы ведь не оцениваете машину только по внешнему виду. Что действительно важно — это её надёжность, манёвренность и соответствие вашим нуждам. Так же и с CRM: это не просто интерфейс, это способ управлять бизнесом.
@@ -26,12 +18,7 @@
 Качество внедрения зависит не только от CRM, но и от команды, которая её настраивает. Надёжный интегратор не просто запускает систему, но и помогает выстроить процессы, обучает сотрудников и остаётся с вами на связи в долгосрочной перспективе.
 
 Подводя итог: выбирая CRM, вы определяете подход к управлению своим бизнесом. Дайте себе время на правильные вопросы — это убережёт от ошибок и поможет внедрить систему, которая станет вашим инструментом роста. Если вы ищете именно такое решение, обсудим, как мы в Orange Process можем вам помочь.]]></description>
-
-<enclosure url="https://github.com/katerinacrm/my-rss-feed/blob/main/output1.png" />
-
-<pubDate>Mon, 19 May 2026 12:17:00 +03:00</pubDate>
-
-<guid>35584ebc-930b-813a-aa4f-e3a2e7ecc4aq</guid>
+  <enclosure url="https://raw.githubusercontent.com/katerinacrm/my-rss-feed/main/output1.png" type="image/png" length="0" />
+  <pubDate>Mon, 19 May 2026 12:23:00 +03:00</pubDate>
+  <guid>35584ebc-930b-813a-aa4f-e3a2e7ecc4aq</guid>
 </item>
-  </channel>
-</rss>
